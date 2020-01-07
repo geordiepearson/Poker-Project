@@ -4,8 +4,6 @@ that each player has and prints them.
 
 Input variables:
 
-Number of Players: int
-
-Number of Cards in Players Hand: int
-
-Number of Cards on Board: int
+  - Number of Players: int
+  - Number of Cards in Players Hand: int
+  - Number of Cards on Board: int
